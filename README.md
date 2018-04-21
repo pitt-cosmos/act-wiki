@@ -1,2 +1,2 @@
-# act-wiki
-An internal wiki for our group
+# Pitt ACT Wiki
+An internal wiki for our group. Please go to the Wiki page above.
